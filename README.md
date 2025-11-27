@@ -17,7 +17,6 @@ A API oferece os seguintes endpoints para gerenciamento dos participantes:
 | :--- | :--- | :--- |
 | `POST` | `/participantes` | Cadastra um novo participante. |
 | `GET` | `/participantes` | Lista todos os participantes (retorna um Pageable). |
-| `GET` | `/participantes/{id}` | Busca um participante específico por ID. |
 | `DELETE` | `/participantes/{id}` | Exclui um participante da base de dados. |
 
 ## 🛠️ Configuração e Execução
